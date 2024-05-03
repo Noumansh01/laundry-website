@@ -1,0 +1,136 @@
+/* responsive screen sizes code start here  */
+
+
+@media only screen and (min-width: 1200px) {
+.header-btn1 {
+    padding: 32px 17px;
+}
+.header-btn2 {
+    padding: 37px 25px 34px 25px;
+}
+
+
+/* how we work code  */
+.container {
+    max-width: 1200px;
+}
+.col-xl-7 {
+    flex: 0 0 58.333333%;
+    max-width: 58.333333%;
+}
+.col-xl-8 {
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+}
+.col-xl-3 {
+    flex: 0 0 25%;
+    max-width: 25%;
+}
+.col-xl-4 {
+   
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+}
+.col-xl-12 {
+ 
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+}
+@media only screen and (min-width: 992px){
+   .main-menu, .header-right{
+        display: block;
+    }
+    .main-header .header-left .main-menu {
+        padding-left: 15px;
+    }
+    .header-btn2 {
+        padding: 37px 16px 34px 16px;
+    }
+    .col-lg-4 {
+        flex: 0 0 33.333333%;
+        max-width: 33.333333%;
+    }
+    .col-lg-3 {
+        
+        flex: 0 0 25%;
+        max-width: 25%;
+    }
+    .col-lg-6 {
+        
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+.container {
+    max-width: 960px;
+}
+.col-lg-8 {
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+}
+.col-lg-9 {
+ 
+    flex: 0 0 75%;
+    max-width: 75%;
+}
+
+}
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+    
+    
+    /* how we work code  */
+    .container {
+        max-width: 720px;
+    }
+    .col-md-4 {
+        
+        flex: 0 0 33.333333%;
+        max-width: 33.333333%;
+    }
+    .col-md-5 {
+       
+        flex: 0 0 41.666667%;
+        max-width: 41.666667%;
+    }
+    .col-md-6 {
+      
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    .col-md-7 {
+        
+        flex: 0 0 58.333333%;
+        max-width: 58.333333%;
+    }
+    .col-md-12 {
+       
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+
+
+@media only screen and (min-width: 576px) and (max-width: 767px){
+    .container {
+        max-width: 540px;
+    }
+    .col-sm-6 {
+        
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    
+}
+
+
+@media (max-width: 575px){
+
+}
+
+
+
+ /* responsive screen sizes code end here  */
