@@ -1,0 +1,50 @@
+.contact-section {
+    padding: 130px 0 100px;
+}
+.contact-title {
+    font-size: 27px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.form-contact .form-group {
+    margin-bottom: 30px;
+}
+.form-contact .form-control {
+    border: 1px solid #e5e6e9;
+    border-radius: 0px;
+    padding-left: 18px;
+    font-size: 13px;
+    background: transparent;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(2.25rem + 2px);
+    padding: .375rem .75rem;
+    line-height: 1.5;
+    color: #495057;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+textarea.form-control {
+    height: auto;
+}
+.boxed-btn {
+    background: #fff;
+    color: #6785FF;
+    display: inline-block;
+    padding: 18px 44px;
+    font-family: "Raleway", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    border: 0;
+    border: 1px solid #6785FF;
+    letter-spacing: 3px;
+    text-align: center;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.boxed-btn:hover{
+    background:  #6785FF;
+    color: #fff;
+} 
