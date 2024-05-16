@@ -459,6 +459,7 @@ img {
 
 .wantToWork-area {
     background-image: url(../images/section_bg01.png.webp);
+    margin-bottom: 80px;
 }
 
 .w-padding2 {
@@ -646,7 +647,7 @@ ul {
 }
 
 
-.section-bg2 {
+.section-bg2-footer {
     background-image: url(../images/company-bg.png.webp);
     background-size: cover;
     background-repeat: no-repeat;
