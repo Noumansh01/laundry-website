@@ -64,3 +64,16 @@ textarea.form-control {
     color: #8f9195;
     font-size: 27px;
 }
+.media-body {
+    -ms-flex: 1;
+    flex: 1;
+}
+.contact-info .media-body h3 {
+    font-size: 16px;
+    margin-bottom: 0;
+    font-size: 16px;
+    color: #2a2a2a;
+}
+.contact-info .media-body p {
+    color: #8a8a8a;
+}
