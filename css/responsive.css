@@ -74,6 +74,9 @@
     flex: 0 0 75%;
     max-width: 75%;
 }
+.offset-lg-1 {
+    margin-left: 8.333333%;
+}
 
 }
 
