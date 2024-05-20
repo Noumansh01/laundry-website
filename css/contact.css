@@ -48,3 +48,19 @@ textarea.form-control {
     background:  #6785FF;
     color: #fff;
 } 
+.media {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: start;
+    align-items: flex-start;
+}
+.contact-info {
+    margin-bottom: 25px;
+}
+.contact-info__icon {
+    margin-right: 20px;
+}
+.contact-info__icon i, .contact-info__icon span {
+    color: #8f9195;
+    font-size: 27px;
+}
